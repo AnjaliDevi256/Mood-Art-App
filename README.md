@@ -37,7 +37,7 @@ MoodArt AI is a full-stack MERN application that generates AI-powered artwork fr
 
 ### Main Interface
 
-![MoodArt AI](screenshots/user-interface.png)
+![MoodArt AI](screenshot/user-interface.png)
 
 ## Future Enhancements
 
